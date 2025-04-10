@@ -1,0 +1,10 @@
+type: workspace
+model: workspace
+id: wk_mBbhEgwyTF
+createdAt: 2025-04-10T19:44:57.063672
+updatedAt: 2025-04-10T19:44:57.063672
+name: PeopleAPI
+description: ''
+settingValidateCertificates: true
+settingFollowRedirects: true
+settingRequestTimeout: 0
